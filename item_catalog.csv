@@ -1,0 +1,36 @@
+item_code,item_name,category,volume_cuft,difficulty,requires_disassembly,is_fragile,is_specialty
+BOX_S,Small box,box,1.5,1,0,0,0
+BOX_M,Medium box,box,3.0,1,0,0,0
+BOX_L,Large box,box,4.5,1,0,0,0
+BOX_WARD,Wardrobe box,box,8.0,2,0,0,0
+SOFA_2S,Loveseat / 2-seat sofa,furniture,45.0,3,0,0,0
+SOFA_3S,3-seat sofa,furniture,60.0,3,0,0,0
+SECTIONAL,Sectional sofa,furniture,95.0,4,1,0,0
+COFFEE_TBL,Coffee table,furniture,12.0,2,0,0,0
+END_TBL,End table,furniture,6.0,2,0,0,0
+TV_40,"TV (up to ~40"")",electronics,6.0,2,0,1,0
+TV_60,"TV (~41–65"")",electronics,9.0,3,0,1,0
+TV_75,"TV (66""+)",electronics,14.0,4,0,1,0
+DINING_TBL,Dining table,furniture,40.0,3,1,0,0
+DINING_CHAIR,Dining chair,furniture,6.0,1,0,0,0
+BAR_STOOL,Bar stool,furniture,4.0,1,0,0,0
+MATTRESS,Mattress,furniture,35.0,3,0,0,0
+BOX_SPRING,Box spring,furniture,25.0,2,0,0,0
+BED_FRAME,Bed frame,furniture,25.0,3,1,0,0
+DRESSER,Dresser,furniture,30.0,3,0,0,0
+NIGHTSTAND,Nightstand,furniture,6.0,1,0,0,0
+BOOKCASE,Bookcase,furniture,18.0,2,0,0,0
+DESK,Desk,furniture,22.0,3,1,0,0
+OFFICE_CHAIR,Office chair,furniture,10.0,2,0,0,0
+FILE_CAB,File cabinet,furniture,12.0,3,0,0,0
+FRIDGE,Refrigerator,appliance,32.0,4,0,0,0
+WASHER,Washer,appliance,25.0,4,0,0,0
+DRYER,Dryer,appliance,25.0,3,0,0,0
+DISHWASHER,Dishwasher,appliance,18.0,3,0,0,0
+MIRROR_L,Large mirror,fragile,8.0,3,0,1,0
+ART_L,Large framed art,fragile,6.0,3,0,1,0
+LAMP,Lamp,decor,3.0,1,0,1,0
+RUG,Rug,decor,6.0,1,0,0,0
+PIANO_UP,Upright piano,specialty,60.0,5,0,0,1
+SAFE_SM,Safe (small),specialty,18.0,5,0,0,1
+TREADMILL,Treadmill,specialty,30.0,5,1,0,1
